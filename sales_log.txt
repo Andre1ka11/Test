@@ -1,0 +1,275 @@
+[2025-10-07T15:21:02] - SALE - Transaction #T847291
+Customer: CUST-00781
+Items:
+    * PROD-001 (Category: Электроника/Смартфоны/Apple) x2
+    * PROD-005 (Category: Аксессуары/Чехлы) x1
+Total Amount: 2027.99 USD
+---
+[2025-10-07T15:22:15] - SALE - Transaction #T847292
+Customer: CUST-00123
+Items:
+    * PROD-210 (Category: Книги/Фантастика) x1
+Total Amount: 25.50 USD
+---
+[2025-10-07T16:05:30] - SALE - Transaction #T847293
+Customer: CUST-00555
+Items:
+    * PROD-450 (Category: Бытовая техника/Кофемашины) x1
+Total Amount: 350.00 USD
+---
+[2025-10-07T16:15:00] - SALE - Transaction #T847294
+Customer: CUST-00901
+Items:
+    * PROD-501 (Category: Одежда/Футболки) x3
+Total Amount: 105.00 USD
+---
+[2025-10-07T17:01:45] - SALE - Transaction #T847295
+Customer: CUST-00781
+Items:
+    * PROD-300 (Category: Электроника/Наушники) x1
+Total Amount: 199.00 USD
+---
+[2025-10-07T17:30:11] - SALE - Transaction #T847296
+Customer: CUST-00432
+Items:
+    * PROD-215 (Category: Книги/Детективы) x2
+Total Amount: 44.00 USD
+---
+[2025-10-07T18:00:00] - SALE - Transaction #T847297
+Customer: CUST-00218
+Items:
+    * PROD-002 (Category: Электроника/Смартфоны/Samsung) x1
+    * PROD-007 (Category: Аксессуары/Зарядные устройства) x1
+Total Amount: 895.50 USD
+---
+[2025-10-08T09:10:05] - SALE - Transaction #T847298
+Customer: CUST-00123
+Items:
+    * PROD-215 (Category: Книги/Детективы) x1
+Total Amount: 22.00 USD
+---
+[2025-10-08T09:45:20] - SALE - Transaction #T847299
+Customer: CUST-00781
+Items:
+    * PROD-007 (Category: Аксессуары/Зарядные устройства) x1
+Total Amount: 45.50 USD
+---
+[2025-10-08T10:00:00] - SALE - Transaction #T847300
+Customer: CUST-00555
+Items:
+    * PROD-451 (Category: Бытовая техника/Чайники) x1
+Total Amount: 75.00 USD
+---
+[2025-10-08T10:30:00] - SALE - Transaction #T847301
+Customer: CUST-00901
+Items:
+    * PROD-501 (Category: Одежда/Футболки) x1
+Total Amount: 35.00 USD
+---
+[2025-10-08T11:00:00] - SALE - Transaction #T847302
+Customer: CUST-00432
+Items:
+    * PROD-210 (Category: Книги/Фантастика) x1
+Total Amount: 25.50 USD
+---
+[2025-10-08T11:30:00] - SALE - Transaction #T847303
+Customer: CUST-00781
+Items:
+    * PROD-005 (Category: Аксессуары/Чехлы) x1
+Total Amount: 29.99 USD
+---
+[2025-10-08T12:00:00] - SALE - Transaction #T847304
+Customer: CUST-00218
+Items:
+    * PROD-300 (Category: Электроника/Наушники) x2
+Total Amount: 398.00 USD
+---
+[2025-10-08T12:30:00] - SALE - Transaction #T847305
+Customer: CUST-00123
+Items:
+    * PROD-210 (Category: Книги/Фантастика) x3
+Total Amount: 76.50 USD
+---
+[2025-10-08T13:00:00] - SALE - Transaction #T847306
+Customer: CUST-00555
+Items:
+    * PROD-001 (Category: Электроника/Смартфоны/Apple) x1
+Total Amount: 999.00 USD
+---
+[2025-10-09T09:00:00] - SALE - Transaction #T847307
+Customer: CUST-00781
+Items:
+    * PROD-210 (Category: Книги/Фантастика) x1
+Total Amount: 25.50 USD
+---
+[2025-10-09T09:30:00] - SALE - Transaction #T847308
+Customer: CUST-00432
+Items:
+    * PROD-501 (Category: Одежда/Футболки) x5
+Total Amount: 175.00 USD
+---
+[2025-10-09T10:00:00] - SALE - Transaction #T847309
+Customer: CUST-00901
+Items:
+    * PROD-005 (Category: Аксессуары/Чехлы) x2
+Total Amount: 59.98 USD
+---
+[2025-10-09T10:30:00] - SALE - Transaction #T847310
+Customer: CUST-00218
+Items:
+    * PROD-451 (Category: Бытовая техника/Чайники) x1
+Total Amount: 75.00 USD
+---
+[2025-10-09T11:00:00] - SALE - Transaction #T847311
+Customer: CUST-00781
+Items:
+    * PROD-001 (Category: Электроника/Смартфоны/Apple) x1
+Total Amount: 999.00 USD
+---
+[2025-10-09T11:30:00] - SALE - Transaction #T847312
+Customer: CUST-00123
+Items:
+    * PROD-215 (Category: Книги/Детективы) x1
+Total Amount: 22.00 USD
+---
+[2025-10-09T12:00:00] - SALE - Transaction #T847313
+Customer: CUST-00555
+Items:
+    * PROD-300 (Category: Электроника/Наушники) x1
+Total Amount: 199.00 USD
+---
+[2025-10-09T12:30:00] - SALE - Transaction #T847314
+Customer: CUST-00901
+Items:
+    * PROD-002 (Category: Электроника/Смартфоны/Samsung) x1
+Total Amount: 850.00 USD
+---
+[2025-10-10T09:00:00] - SALE - Transaction #T847315
+Customer: CUST-00432
+Items:
+    * PROD-007 (Category: Аксессуары/Зарядные устройства) x1
+Total Amount: 45.50 USD
+---
+[2025-10-10T09:30:00] - SALE - Transaction #T847316
+Customer: CUST-00781
+Items:
+    * PROD-450 (Category: Бытовая техника/Кофемашины) x1
+Total Amount: 350.00 USD
+---
+[2025-10-10T10:00:00] - SALE - Transaction #T847317
+Customer: CUST-00218
+Items:
+    * PROD-210 (Category: Книги/Фантастика) x2
+Total Amount: 51.00 USD
+---
+[2025-10-10T10:30:00] - SALE - Transaction #T847318
+Customer: CUST-00123
+Items:
+    * PROD-501 (Category: Одежда/Футболки) x2
+Total Amount: 70.00 USD
+---
+[2025-10-10T11:00:00] - SALE - Transaction #T847319
+Customer: CUST-00555
+Items:
+    * PROD-005 (Category: Аксессуары/Чехлы) x1
+Total Amount: 29.99 USD
+---
+[2025-10-10T11:30:00] - SALE - Transaction #T847320
+Customer: CUST-00781
+Items:
+    * PROD-002 (Category: Электроника/Смартфоны/Samsung) x1
+    * PROD-005 (Category: Аксессуары/Чехлы) x1
+Total Amount: 879.99 USD
+---
+[2025-10-10T12:00:00] - SALE - Transaction #T847321
+Customer: CUST-00901
+Items:
+    * PROD-300 (Category: Электроника/Наушники) x1
+Total Amount: 199.00 USD
+---
+[2025-10-10T12:30:00] - SALE - Transaction #T847322
+Customer: CUST-00432
+Items:
+    * PROD-451 (Category: Бытовая техника/Чайники) x1
+Total Amount: 75.00 USD
+---
+[2025-10-11T09:00:00] - SALE - Transaction #T847323
+Customer: CUST-00218
+Items:
+    * PROD-001 (Category: Электроника/Смартфоны/Apple) x1
+Total Amount: 999.00 USD
+---
+[2025-10-11T09:30:00] - SALE - Transaction #T847324
+Customer: CUST-00781
+Items:
+    * PROD-215 (Category: Книги/Детективы) x1
+Total Amount: 22.00 USD
+---
+[2025-10-11T10:00:00] - SALE - Transaction #T847325
+Customer: CUST-00123
+Items:
+    * PROD-007 (Category: Аксессуары/Зарядные устройства) x2
+Total Amount: 91.00 USD
+---
+[2025-10-11T10:30:00] - SALE - Transaction #T847326
+Customer: CUST-00555
+Items:
+    * PROD-210 (Category: Книги/Фантастика) x1
+Total Amount: 25.50 USD
+---
+[2025-10-11T11:00:00] - SALE - Transaction #T847327
+Customer: CUST-00901
+Items:
+    * PROD-001 (Category: Электроника/Смартфоны/Apple) x1
+    * PROD-005 (Category: Аксессуары/Чехлы) x1
+    * PROD-300 (Category: Электроника/Наушники) x1
+Total Amount: 1227.99 USD
+---
+[2025-10-11T11:30:00] - SALE - Transaction #T847328
+Customer: CUST-00432
+Items:
+    * PROD-002 (Category: Электроника/Смартфоны/Samsung) x1
+Total Amount: 850.00 USD
+---
+[2025-10-11T12:00:00] - SALE - Transaction #T847329
+Customer: CUST-00781
+Items:
+    * PROD-501 (Category: Одежда/Футболки) x1
+Total Amount: 35.00 USD
+---
+[2025-10-11T12:30:00] - SALE - Transaction #T847330
+Customer: CUST-00218
+Items:
+    * PROD-215 (Category: Книги/Детективы) x1
+Total Amount: 22.00 USD
+---
+[2025-10-11T13:00:00] - SALE - Transaction #T847331
+Customer: CUST-00123
+Items:
+    * PROD-450 (Category: Бытовая техника/Кофемашины) x1
+Total Amount: 350.00 USD
+---
+[2025-10-11T13:30:00] - SALE - Transaction #T847332
+Customer: CUST-00555
+Items:
+    * PROD-451 (Category: Бытовая техника/Чайники) x2
+Total Amount: 150.00 USD
+---
+[2025-10-11T14:00:00] - SALE - Transaction #T847333
+Customer: CUST-00901
+Items:
+    * PROD-210 (Category: Книги/Фантастика) x1
+Total Amount: 25.50 USD
+---
+[2025-10-11T14:30:00] - SALE - Transaction #T847334
+Customer: CUST-00781
+Items:
+    * PROD-001 (Category: Электроника/Смартфоны/Apple) x1
+Total Amount: 999.00 USD
+---
+[2025-10-11T15:00:00] - SALE - Transaction #T847335
+Customer: CUST-00432
+Items:
+    * PROD-300 (Category: Электроника/Наушники) x1
+Total Amount: 199.00 USD
+---

@@ -1,0 +1,2 @@
+127.0.0.1 - - [10/Oct/2022:13:55:36 +0000] "GET /index.html HTTP/1.1" 200 1541 "http://example.com/start/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+127.98.0.10 - - [10/Oct/2022:13:55:36 +0000] "GET /OPENdex.html HTTP/1.1" 200 1541 "http://example.com/start/" "Zozilla/5.0 (Windows NT 10.0; Win64; x64)"
